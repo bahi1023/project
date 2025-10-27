@@ -1,4 +1,4 @@
-# Task Manager App
+# Task Manager App — updated by Alice (main)
 
 A simple and intuitive task management application to help you organize your daily activities and boost productivity.
 
